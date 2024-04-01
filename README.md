@@ -1,4 +1,4 @@
-### Hi there 👋
+안녕하세요 웹 공부를 시작한 0120입니다.👍
 
 <!--
 **ch0120yy/ch0120yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
